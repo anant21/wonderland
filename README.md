@@ -1,5 +1,6 @@
 # Wonderland Game
-
+It is an interesting Game made with Python. I challenge you to come out this game alive and win this game.
+All the Best!
 ## Requirements
 
 * Python3
@@ -25,3 +26,5 @@
 
 ### Thank You
 
+Creator: Anant Gangwar
+Date: March 17. 2021
