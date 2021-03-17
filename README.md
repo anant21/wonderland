@@ -26,5 +26,5 @@ All the Best!
 
 ### Thank You
 
-Creator: Anant Gangwar
+Creator: Anant Gangwar \
 Date: March 17. 2021
