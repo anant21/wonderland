@@ -8,6 +8,17 @@ All the Best!
 * Python3
 
 ## Installation
+### Windows
+1. Download the latest Python release. Install it.
+   * `https://www.python.org/downloads/`
+   * `https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe` - (Feb 19, 2021)
+2. Download the zip file of Wonderland Game. And unzip it on Desktop.
+3.  Open the Powershell or Command Prompt. Enter the following commands:
+   * `cd Desktop\wonderland-main`
+   * `pip install -r requirements.txt`
+   * `python wonderlandGame.py <your-name> <gender>`
+
+### Linux
 1. Download the repository Zip file or Clone the repository using following command.
    * `git clone https://github.com/anant21/wonderland.git`
 
@@ -18,12 +29,13 @@ All the Best!
    * `pip3 install -r requirements.txt`
 
 ## Usage
-1. Start the game.
+1. Go to the folder/directory i.e wonderland.
+2. Open the Terminal/Powershell/Command Prompt in this folder/directory.
+3. Start the game.
    * python3 wonderlandGame.py <your-name> <gender>
    * `python3 wonderlandGame.py Alice f`
    * `python3 wonderlandGame.py Bob m`
-
-2. Remember to answer the questions in one word or two.
+4. Remember to answer the questions in one word or two.
 
 
 ### Thank You
