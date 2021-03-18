@@ -1,8 +1,8 @@
 # Wonderland Game
 It is an interesting decision-based Game made with Python. I challenge you to come out this game alive and win this game. You are lost in Wonderland and you have to reach the safest place.
 All the Best!
-## Requirements
 
+## Requirements
 * Python3
 
 ## Installation
