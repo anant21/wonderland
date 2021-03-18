@@ -29,4 +29,4 @@ All the Best!
 Creator: Anant Gangwar \
 Date: March 17. 2021
 
-*  Inspired by Zork-Py Game
+* Inspired by Zork-Py Game
