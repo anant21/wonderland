@@ -29,17 +29,17 @@ All the Best!
 1. Open terminal.
 2. Clone the repository using following command.
    * `git clone https://github.com/anant21/wonderland.git`
-2. Change the directory to the repo folder.
+3. Change the directory to the repo folder.
    * `cd wonderland`
-3. Install the requirements.
+4. Install the requirements.
    * `pip3 install -r requirements.txt`
-4. Enter following commands to start the game:
+5. Enter following commands to start the game:
    *  `cd linux_and_unix`
-   *  `python3 wonderlandGame.py <your-name> <gender (f/m/o)>
-5. Example:
+   *  `python3 wonderlandGame.py <your-name> <gender (f/m/o)>`
+6. Example:
    * `python3 wonderlandGame.py Alice f`
    * `python3 wonderlandGame.py Bob m`
-6. Note: If you will download the Zip file, then the folder name will be "wonderland-main" in place of "wonderland".
+7. Note: If you will download the Zip file, then the folder name will be "wonderland-main" in place of "wonderland".
 
 ## Usage
 1. Go to the folder/directory i.e wonderland.
