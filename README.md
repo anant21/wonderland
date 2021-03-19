@@ -38,8 +38,8 @@ All the Best!
    *  `python3 wonderlandGame.py <your-name> <gender (f/m/o)>
 5. Example:
    * `python3 wonderlandGame.py Alice f`
-   * `python3 wonderlandGame.py Bob m`\
-Note: If you will download the Zip file, then the folder name will be "wonderland-main" in place of "wonderland".
+   * `python3 wonderlandGame.py Bob m`
+6. Note: If you will download the Zip file, then the folder name will be "wonderland-main" in place of "wonderland".
 
 ## Usage
 1. Go to the folder/directory i.e wonderland.
