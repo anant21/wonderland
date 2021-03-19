@@ -9,13 +9,13 @@ All the Best!
 
 ## Installation
 #### Windows
-1. Go to C: Drive and create a new folder named "python3".
-2. Download the latest Python release (Python 3). Install it in the "python3" folder.
+1. Go to C: Drive and create a new folder named `python3`.
+2. Download the latest Python release (Python 3). Install it in the `python3` folder.
    * `https://www.python.org/downloads/`
    * `https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe`
 2. Download the zip file of Wonderland Game.
-3. Unzip the zipped folder (extract all) to "python3" folder.
-4. Go to "python3" folder. (Path - C:\python3\)
+3. Unzip the zipped folder (extract all) to `python3` folder.
+4. Go to `python3` folder. (Path - C:\python3\)
 5. Press SHIFT button and right click anywhere inside the folder.
 6. Click on 'Open Powershell window here' in the list popped up. This will open a Powershell Command Line.
 7. Enter or Copy-paste the following commands:
